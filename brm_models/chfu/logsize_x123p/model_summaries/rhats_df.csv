@@ -1,0 +1,10 @@
+"",".variable","rhat","truncate","quantile"
+"1","b_Intercept",1.00072380373795,FALSE,NA
+"2","b_sampleAreaWara.D",1.0002068244247,FALSE,NA
+"3","b_erapresent",1.00072631861708,FALSE,NA
+"4","b_x2z",1.0000150894374,FALSE,NA
+"5","b_x3z",0.999905774267491,FALSE,NA
+"6","b_erapresent:x2z",0.999607701139833,FALSE,NA
+"7","b_erapresent:x3z",0.999860583367985,FALSE,NA
+"8","sigma",0.999249295057287,FALSE,NA
+"9","lp__",1.00117943079063,FALSE,NA

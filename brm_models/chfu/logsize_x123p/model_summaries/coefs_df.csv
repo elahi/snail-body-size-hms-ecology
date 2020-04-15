@@ -1,0 +1,13 @@
+"",".variable",".value",".lower",".upper",".width",".point",".interval","variable","truncate","quantile"
+"1","b_erapresent",-0.115297665906637,-0.170419277613183,-0.0621038190483711,0.95,"median","qi","Era",FALSE,NA
+"2","b_erapresent:x2z",-0.09066554638949,-0.145874022866031,-0.0334845142508879,0.95,"median","qi","Era x Density",FALSE,NA
+"3","b_erapresent:x3z",0.0530859882372277,-0.00291010779640486,0.1083161109506,0.95,"median","qi","Era x Tidal height",FALSE,NA
+"4","b_sampleAreaWara.D",-0.0309581622306503,-0.103855798588381,0.0447557783328695,0.95,"median","qi","Sample Area",FALSE,NA
+"5","b_x2z",-0.013263934596266,-0.0649205484213776,0.0391651402454049,0.95,"median","qi","Density",FALSE,NA
+"6","b_x3z",-0.0800730518809785,-0.120139169918639,-0.0403314438451671,0.95,"median","qi","Tidal height",FALSE,NA
+"7","b_erapresent",-0.115297665906637,-0.151619423032869,-0.081369554874202,0.8,"median","qi","Era",FALSE,NA
+"8","b_erapresent:x2z",-0.09066554638949,-0.126747038540692,-0.0544702141171414,0.8,"median","qi","Era x Density",FALSE,NA
+"9","b_erapresent:x3z",0.0530859882372277,0.0159278002123731,0.0886072886086869,0.8,"median","qi","Era x Tidal height",FALSE,NA
+"10","b_sampleAreaWara.D",-0.0309581622306503,-0.0789905823104118,0.0171897982991046,0.8,"median","qi","Sample Area",FALSE,NA
+"11","b_x2z",-0.013263934596266,-0.0471085312466155,0.0199490780077345,0.8,"median","qi","Density",FALSE,NA
+"12","b_x3z",-0.0800730518809785,-0.105960207050739,-0.0531467330562046,0.8,"median","qi","Tidal height",FALSE,NA

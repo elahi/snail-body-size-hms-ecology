@@ -1,0 +1,73 @@
+"",".variable",".value",".lower",".upper",".width",".point",".interval","variable","truncate","quantile"
+"1","b_erapresent",-0.0689172717210273,-0.133731143534293,-0.00527396722202046,0.95,"median","qi","Era",FALSE,NA
+"2","b_erapresent:sampleAreaWara.D",-0.117242928899218,-0.185926577438014,-0.0497682586682362,0.95,"median","qi","Sample Area",FALSE,NA
+"3","b_sampleAreaWara.D",-0.131240802115013,-0.189791026592919,-0.0689658043671761,0.95,"median","qi","Era x Sample Area",FALSE,NA
+"4","b_erapresent",-0.0689172717210273,-0.113826828343015,-0.0271976174118823,0.8,"median","qi","Era",FALSE,NA
+"5","b_erapresent:sampleAreaWara.D",-0.117242928899218,-0.162295729404584,-0.0708757437014034,0.8,"median","qi","Sample Area",FALSE,NA
+"6","b_sampleAreaWara.D",-0.131240802115013,-0.171101297910282,-0.0909510440997807,0.8,"median","qi","Era x Sample Area",FALSE,NA
+"7","b_erapresent",-0.0697022931949638,-0.134645521443593,-0.00367813899827557,0.95,"median","qi","Era",TRUE,0
+"8","b_erapresent:sampleAreaWara.D",-0.114653911610119,-0.183809546253471,-0.0479030410811016,0.95,"median","qi","Sample Area",TRUE,0
+"9","b_sampleAreaWara.D",-0.131746626696425,-0.191244350995949,-0.0692714566408743,0.95,"median","qi","Era x Sample Area",TRUE,0
+"10","b_erapresent",-0.0697022931949638,-0.112702142881595,-0.0282728206548791,0.8,"median","qi","Era",TRUE,0
+"11","b_erapresent:sampleAreaWara.D",-0.114653911610119,-0.157816430630447,-0.069122324613978,0.8,"median","qi","Sample Area",TRUE,0
+"12","b_sampleAreaWara.D",-0.131746626696425,-0.170679900123705,-0.0931685242264362,0.8,"median","qi","Era x Sample Area",TRUE,0
+"13","b_erapresent",-0.103756188032741,-0.150075158989754,-0.0590276614803725,0.95,"median","qi","Era",TRUE,0.1
+"14","b_erapresent:sampleAreaWara.D",-0.0952918687160962,-0.142350468874049,-0.0455668946387652,0.95,"median","qi","Sample Area",TRUE,0.1
+"15","b_sampleAreaWara.D",-0.0838229800674329,-0.124971401203452,-0.041726540999899,0.95,"median","qi","Era x Sample Area",TRUE,0.1
+"16","b_erapresent",-0.103756188032741,-0.133126034779026,-0.0752497858850657,0.8,"median","qi","Era",TRUE,0.1
+"17","b_erapresent:sampleAreaWara.D",-0.0952918687160962,-0.124844692830521,-0.0639457422219166,0.8,"median","qi","Sample Area",TRUE,0.1
+"18","b_sampleAreaWara.D",-0.0838229800674329,-0.110740725322829,-0.0562748189266067,0.8,"median","qi","Era x Sample Area",TRUE,0.1
+"19","b_erapresent",-0.108583314202519,-0.150693951856561,-0.0709997286125634,0.95,"median","qi","Era",TRUE,0.15
+"20","b_erapresent:sampleAreaWara.D",-0.103838198217724,-0.144617239104712,-0.0588665791651253,0.95,"median","qi","Sample Area",TRUE,0.15
+"21","b_sampleAreaWara.D",-0.0554643712759383,-0.0943123509907505,-0.0192081744642105,0.95,"median","qi","Era x Sample Area",TRUE,0.15
+"22","b_erapresent",-0.108583314202519,-0.136293660612884,-0.0825340635048897,0.8,"median","qi","Era",TRUE,0.15
+"23","b_erapresent:sampleAreaWara.D",-0.103838198217724,-0.131494296000411,-0.0743772645831812,0.8,"median","qi","Sample Area",TRUE,0.15
+"24","b_sampleAreaWara.D",-0.0554643712759383,-0.0811223034130642,-0.0306854146936917,0.8,"median","qi","Era x Sample Area",TRUE,0.15
+"25","b_erapresent",-0.117494527047887,-0.156829561388226,-0.0815685359057887,0.95,"median","qi","Era",TRUE,0.2
+"26","b_erapresent:sampleAreaWara.D",-0.101287739946339,-0.139731483161451,-0.0592565687060885,0.95,"median","qi","Sample Area",TRUE,0.2
+"27","b_sampleAreaWara.D",-0.0413263124818472,-0.077915610208561,-0.00790478972063833,0.95,"median","qi","Era x Sample Area",TRUE,0.2
+"28","b_erapresent",-0.117494527047887,-0.142459010728312,-0.0931362311165577,0.8,"median","qi","Era",TRUE,0.2
+"29","b_erapresent:sampleAreaWara.D",-0.101287739946339,-0.127703075830896,-0.0749667562307303,0.8,"median","qi","Sample Area",TRUE,0.2
+"30","b_sampleAreaWara.D",-0.0413263124818472,-0.0651065378439069,-0.018558853221982,0.8,"median","qi","Era x Sample Area",TRUE,0.2
+"31","b_erapresent",-0.12689717517291,-0.160389401913961,-0.0909380289279235,0.95,"median","qi","Era",TRUE,0.25
+"32","b_erapresent:sampleAreaWara.D",-0.0546180628581793,-0.0924089729000362,-0.0189033186616345,0.95,"median","qi","Sample Area",TRUE,0.25
+"33","b_sampleAreaWara.D",-0.0279990450077095,-0.0610411231797013,0.00518941080247013,0.95,"median","qi","Era x Sample Area",TRUE,0.25
+"34","b_erapresent",-0.12689717517291,-0.149033026298873,-0.104094211274283,0.8,"median","qi","Era",TRUE,0.25
+"35","b_erapresent:sampleAreaWara.D",-0.0546180628581793,-0.0785834702415245,-0.030576118101502,0.8,"median","qi","Sample Area",TRUE,0.25
+"36","b_sampleAreaWara.D",-0.0279990450077095,-0.0499839372514384,-0.0065782269561277,0.8,"median","qi","Era x Sample Area",TRUE,0.25
+"37","b_erapresent",-0.128460900731442,-0.160042182367521,-0.0964382798508152,0.95,"median","qi","Era",TRUE,0.3
+"38","b_erapresent:sampleAreaWara.D",-0.0173029615673085,-0.0511127484729,0.017279952076637,0.95,"median","qi","Sample Area",TRUE,0.3
+"39","b_sampleAreaWara.D",-0.00898697417789649,-0.0402334599277475,0.0212503684119543,0.95,"median","qi","Era x Sample Area",TRUE,0.3
+"40","b_erapresent",-0.128460900731442,-0.148976481085353,-0.108010976742599,0.8,"median","qi","Era",TRUE,0.3
+"41","b_erapresent:sampleAreaWara.D",-0.0173029615673085,-0.0393907785381353,0.0054231455151465,0.8,"median","qi","Sample Area",TRUE,0.3
+"42","b_sampleAreaWara.D",-0.00898697417789649,-0.0288305094262159,0.0102446910240506,0.8,"median","qi","Era x Sample Area",TRUE,0.3
+"43","b_erapresent",-0.138213868983135,-0.168738221827254,-0.107757496401439,0.95,"median","qi","Era",TRUE,0.35
+"44","b_erapresent:sampleAreaWara.D",0.0119314615428782,-0.0216429508490673,0.0449632551562604,0.95,"median","qi","Sample Area",TRUE,0.35
+"45","b_sampleAreaWara.D",-0.0119898854906974,-0.0418516568091746,0.0170421950558167,0.95,"median","qi","Era x Sample Area",TRUE,0.35
+"46","b_erapresent",-0.138213868983135,-0.157812212050976,-0.118070189839461,0.8,"median","qi","Era",TRUE,0.35
+"47","b_erapresent:sampleAreaWara.D",0.0119314615428782,-0.00936347296436733,0.0330866052657529,0.8,"median","qi","Sample Area",TRUE,0.35
+"48","b_sampleAreaWara.D",-0.0119898854906974,-0.0313451316596587,0.00545545400910843,0.8,"median","qi","Era x Sample Area",TRUE,0.35
+"49","b_erapresent",-0.147359144434883,-0.176686068002922,-0.120022648275159,0.95,"median","qi","Era",TRUE,0.4
+"50","b_erapresent:sampleAreaWara.D",0.0286700177550381,-0.00161714507416485,0.0600055581172475,0.95,"median","qi","Sample Area",TRUE,0.4
+"51","b_sampleAreaWara.D",-0.0085969729057263,-0.0366857900420487,0.0167465220490046,0.95,"median","qi","Era x Sample Area",TRUE,0.4
+"52","b_erapresent",-0.147359144434883,-0.16650876859374,-0.12915773833554,0.8,"median","qi","Era",TRUE,0.4
+"53","b_erapresent:sampleAreaWara.D",0.0286700177550381,0.00925636896093758,0.0493579491160048,0.8,"median","qi","Sample Area",TRUE,0.4
+"54","b_sampleAreaWara.D",-0.0085969729057263,-0.0262942800378197,0.00818414139800365,0.8,"median","qi","Era x Sample Area",TRUE,0.4
+"55","b_erapresent",-0.144056294893449,-0.172844309618089,-0.11566754670563,0.95,"median","qi","Era",TRUE,0.45
+"56","b_erapresent:sampleAreaWara.D",0.0339009849045558,0.00306291241245528,0.0651880526194661,0.95,"median","qi","Sample Area",TRUE,0.45
+"57","b_sampleAreaWara.D",-0.0124894188937677,-0.0387027220134774,0.0133136870767489,0.95,"median","qi","Era x Sample Area",TRUE,0.45
+"58","b_erapresent",-0.144056294893449,-0.162779319463927,-0.125640757021567,0.8,"median","qi","Era",TRUE,0.45
+"59","b_erapresent:sampleAreaWara.D",0.0339009849045558,0.0138025964112167,0.0537317129139734,0.8,"median","qi","Sample Area",TRUE,0.45
+"60","b_sampleAreaWara.D",-0.0124894188937677,-0.0294945545951671,0.00445661818131976,0.8,"median","qi","Era x Sample Area",TRUE,0.45
+"61","b_erapresent",-0.0878801231341898,-0.13721282344863,-0.0367371293497042,0.95,"median","qi","Era",TRUE,0.05
+"62","b_erapresent:sampleAreaWara.D",-0.100661148978209,-0.153214603998117,-0.0484790123226714,0.95,"median","qi","Sample Area",TRUE,0.05
+"63","b_sampleAreaWara.D",-0.105143173806884,-0.150644384473581,-0.057185591306265,0.95,"median","qi","Era x Sample Area",TRUE,0.05
+"64","b_erapresent",-0.0878801231341898,-0.12045967350594,-0.0552416042995326,0.8,"median","qi","Era",TRUE,0.05
+"65","b_erapresent:sampleAreaWara.D",-0.100661148978209,-0.135553741945217,-0.0655402749079741,0.8,"median","qi","Sample Area",TRUE,0.05
+"66","b_sampleAreaWara.D",-0.105143173806884,-0.135645049487368,-0.0744698190593271,0.8,"median","qi","Era x Sample Area",TRUE,0.05
+"67","b_erapresent",-0.130288665106553,-0.158788087074586,-0.101021477594464,0.95,"median","qi","Era",TRUE,0.5
+"68","b_erapresent:sampleAreaWara.D",0.0226720095100895,-0.00951851182006126,0.0537539954001984,0.95,"median","qi","Sample Area",TRUE,0.5
+"69","b_sampleAreaWara.D",-0.0151360620321452,-0.0415966112040474,0.0106725542411799,0.95,"median","qi","Era x Sample Area",TRUE,0.5
+"70","b_erapresent",-0.130288665106553,-0.149174900020201,-0.11100471287502,0.8,"median","qi","Era",TRUE,0.5
+"71","b_erapresent:sampleAreaWara.D",0.0226720095100895,0.00134552144447183,0.0428108708039519,0.8,"median","qi","Sample Area",TRUE,0.5
+"72","b_sampleAreaWara.D",-0.0151360620321452,-0.0318971898689855,0.00211578052816291,0.8,"median","qi","Era x Sample Area",TRUE,0.5
