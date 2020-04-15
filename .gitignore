@@ -37,3 +37,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Robin
+.Rproj.user
+*.Rproj
+.DS_Store
