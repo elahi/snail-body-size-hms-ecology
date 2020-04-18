@@ -135,5 +135,5 @@ df3 %>%
 
 ## Figure 2
 ggsave("figs/plot_era_quantile_color2.pdf", height = 2.5, width = 6)
-ggsave("figs/plot_era_quantile_color2.jpg", height = 3, width = 6, dpi = 600)
+ggsave("figs/plot_era_quantile_color2.jpg", height = 2.5, width = 6, dpi = 600)
 
